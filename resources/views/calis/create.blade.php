@@ -6,7 +6,7 @@
     background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/018.webp');
     height: 100vh;
   ">
-        <h1 style= "color:aliceblue";>Registration Now!hp</h1>
+        <h1 style= "color:aliceblue" class="text-center";>Registration Now!</h1>
         <form action="/calis/store" method="POST", style= "color:aliceblue">
             @csrf
             <div class="mb-3">

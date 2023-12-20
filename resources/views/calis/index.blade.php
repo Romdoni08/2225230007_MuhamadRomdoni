@@ -6,6 +6,7 @@
     background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/015.webp');
     height: 100vh;
   ">
+        <h1 style="color: white;" class="text-center">Galaxy Calisthenic</h1>
         <a class="btn btn-primary" href="/calis/create">Registration</a>
         <table class="table table-hover", style="color: white;">
             <tr>

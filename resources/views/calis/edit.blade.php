@@ -6,7 +6,7 @@
     background-image: url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/011.webp');
     height: 100vh;
   ">
-        <h1 style= "color:aliceblue">Edit Data</h1>
+        <h1 style= "color:aliceblue" class="text-center">Edit Data</h1>
         
         <form action="/calis/{{$calis->id}}" method="POST" style= "color:aliceblue">
             @method('put')
